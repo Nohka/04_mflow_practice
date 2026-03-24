@@ -29,9 +29,11 @@ After running the experiments, I selected the **best run per experiment** based 
 
 ### Screenshots
 
-* ![MLflow's UI overview](screenshots/mlflow_overview.png)
-* ![GradientBoosting experiment runs with best model renamed](screenshots/mlflow_runs_best.png)
-* ![Best overall model](screenshots/mlflow_best_model.png)
+![MLflow's UI overview](screenshots/mlflow_overview.png)
+
+![GradientBoosting experiment runs with best model renamed](screenshots/mlflow_runs_best.png)
+
+![Best overall model](screenshots/mlflow_best_model.png)
 
 ---
 
@@ -64,8 +66,9 @@ This simulates a real workflow where models are promoted based on performance on
 
 ### Screenshots
 
-* ![MLflow's registered models](screenshots/mlflow_models.png)
-* ![Best model in production](screenshots/mlflow_production.png)
+![MLflow's registered models](screenshots/mlflow_models.png)
+
+![Best model in production](screenshots/mlflow_production.png)
 
 ---
 
